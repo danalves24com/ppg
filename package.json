@@ -1,0 +1,27 @@
+{
+ "name": "ppg",
+ "version": "1.0.0",
+ "type": "module",
+ "description": "* The Idea You provide the password with a phrase and it returns a random pattern based on which you can turn that phrase into a password.",
+ "main": "generate.js",
+ "directories": {
+  "test": "tests"
+ },
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/velocitatem/ppg.git"
+ },
+ "keywords": [],
+ "author": "",
+ "license": "ISC",
+ "bugs": {
+  "url": "https://github.com/velocitatem/ppg/issues"
+ },
+ "homepage": "https://github.com/velocitatem/ppg#readme",
+ "dependencies": {
+  "random-words": "^1.1.2"
+ }
+}

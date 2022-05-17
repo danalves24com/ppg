@@ -1,0 +1,4 @@
+#+TITLE: Personal Password Generator
+
+* The Idea
+You provide the password with a phrase and it returns a random pattern based on which you can turn that phrase into a password.
